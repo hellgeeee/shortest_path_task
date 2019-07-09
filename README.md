@@ -1,2 +1,2 @@
 # shortest_path_task
-realize Dextra algorithm with small modifications
+implementDextra algorithm with small modifications
